@@ -1,6 +1,6 @@
 # ElementaryMorality
-An interactive installation for 'Intermingle', an exhibition held at Platform Arts, Belfast, 2014
---------------------------------------------------------------------
+
+An interactive installation exhibited at 'Intermingle' exhibition, Platform Arts, Belfast, 2014.
 
 ## Technology
 Physical components: Old Rotary dial phone spray painted red, Arduino Uno Board, Adafruit Wave Shield, SD card, Relay Board REL-PCB3, Signal RELAY DScY 2U 2A 5V, photo resistor, 12v Power supply, 24V power supply.
