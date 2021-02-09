@@ -12,6 +12,9 @@ The red phone has been used in a multitude of films, advertisements and politica
 
 ‘Elementary Morality’ is an interactive automated installation that incorporates the red phone, an old method of secure communication, to relay a message from the recent past that is relevant today. The phone rings when it senses a passer-by. Whoever picks up the handset will hear a message from Noam Chomsky which was taken from a 2002 interview in Japan during which Chomsky speaks openly about his views on terrorism, war aims and the lack of elementary morality. Chomsky speaks of the hypocrite and the basic principle of doing unto others as you would like done unto you. He calls the so called war on terror a ‘pure hypocrisy’. Would anybody listen?
 
+## Video link to project in development
+https://youtu.be/1_n5VhdLCYQ
+
 ---------------------------------------------------------------------
 ## Sound file
 Copyright permission was kindly given by John Junkerman from his film Power and Terror, Noam Chomsky in Our Times, for use in this installation.
